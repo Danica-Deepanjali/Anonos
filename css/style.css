@@ -784,6 +784,10 @@ section .content {
     text-align: center;
   }
 
+  .hr-green {
+    margin: 1.25rem auto;
+}
+
   .btn {
     margin-top: 1rem;
   }
